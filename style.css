@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Janna';
+    src: url('assets/fonts/janna-lt-bold/JannaLTBold/JannaLTBold.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Janna-regular';
+    src: url('assets/fonts/janna-lt-regular/JannaLTRegular.ttf') format('truetype');
+  }
+
+body{
+background-image: url(assets/back.png);
+
+}
+  textarea{
+    font-family: 'Janna-regular',sans-serif;
+  }
+  nav,h2,tr,p{
+    font-family: 'Janna',sans-serif;
+
+  }
